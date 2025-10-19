@@ -1,3 +1,6 @@
+# "This project was originally completed in May 2025 for my Object-Oriented Programming course at AUCA and was uploaded to this public repository on October 19 2025 for portfolio purposes."
+
+
 <h1 align=center> COM-119 2025S Project 1: platformer-project </h1>
 <h5 align=center>This is the starting point for Project 1 of the Object-Oriented Programming course at AUCA, which students are required to translate into OOP </h5>
 
